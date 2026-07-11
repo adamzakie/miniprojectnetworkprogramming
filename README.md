@@ -11,14 +11,14 @@
 
 4. GUI Interface: User-friendly interface built with Java Swing for a seamless chat experience.
 
-   🛠️ Project Structure
+🛠️ Project Structure
 1. com.chat.client: Contains ChatUI.java for the user interface and client logic.
 
 2. com.chat.server: Contains ChatServer.java and ClientHandler.java for server-side management.
 
 3. com.chat.util: Contains EncryptionUtils.java for all security and encryption functions.
 
-   📋 How to Run
+📋 How to Run
 1. Launch the Server: Run com.chat.server.ChatServer first.
 
 2. Launch Clients: Run com.chat.client.ChatUI for as many clients as you wish to simulate.
@@ -27,12 +27,12 @@
 
 4. Chat: Type your messages and click "Send" to broadcast them securely to other connected clients.
 
-   🔒 Security Information
+🔒 Security Information
 1. Encryption Algorithm: AES (Advanced Encryption Standard).
 
 2. Authentication: A hardcoded handshake mechanism is performed immediately upon socket connection.
 
-   👥 Team & Contribution
+👥 Team & Contribution
    
 ADAM ZAKIE BIN MOHD ZAHERUDDIN             241301777
 
@@ -45,3 +45,5 @@ MUHAMMAD AQIL BIN NORASLY	                 241302499
 
 
 Tools Used: Java, NetBeans, Git/GitHub, Java Swing.
+
+ALL REPORT,USER MANUAL AND MAINTENANCE DOCUMENTATION ARE LOCATED IN THE DOCUMENTATION FILE
